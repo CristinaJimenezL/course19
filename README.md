@@ -2,4 +2,4 @@
 Optional description
 # my name CristinaJimenezL
 
-This is my repository now 
+Thomas Brochier
